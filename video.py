@@ -1,4 +1,4 @@
-from ffmpy import FFmpeg
+'''from ffmpy import FFmpeg
 
 #ffmpeg -i animedull.mp4 -ss 00:00:30.0 -c copy -t 00:00:10.0 oanimedullshort.mp4
 
@@ -15,7 +15,15 @@ ff = FFmpeg(
     outputs={'output/out%d.png': '-vf fps=4'}
 )
 
-
 print(ff.cmd)
 
-ff.run()
+ff.run()'''
+
+###
+#Arjun Code
+###
+
+from subprocess import call
+import os
+os.chdir("learn-nightwatch")
+call(["npm learn-nightwatch/test"],shell=True)
