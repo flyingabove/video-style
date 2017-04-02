@@ -2,52 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c8f2cde-b497-4a83-8992-9e824bd632df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styled/out9.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Archive/deepDreamGenerator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Archive/sample.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Archive/style.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/deepDreamGenerator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/deepDreamGenerator.js.zip" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/out9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styled/out9.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn-nightwatch" afterPath="$PROJECT_DIR$/learn-nightwatch" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video.py" afterPath="$PROJECT_DIR$/video.py" />
@@ -74,10 +111,22 @@
       <file leaf-file-name="video.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <state relative-caret-position="346">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,18 +135,8 @@
       <file leaf-file-name="deepDreamGenerator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/deepDreamGenerator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fileConf.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/fileConf.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="96">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -131,6 +170,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/learn-nightwatch/test/e2e/deepDreamGenerator.js" />
         <option value="$PROJECT_DIR$/learn-nightwatch/test/e2e/fileConf.json" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/video.py" />
       </list>
     </option>
@@ -247,32 +287,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videopy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videopy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn-nightwatch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="e2e" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -285,11 +299,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-nightwatch/test/e2e" />
       <recent name="$PROJECT_DIR$/sample-input" />
       <recent name="$PROJECT_DIR$/learn-nightwatch/test/e2e/styles" />
       <recent name="$PROJECT_DIR$/learn-nightwatch/test/e2e/images" />
       <recent name="$PROJECT_DIR$/styled" />
-      <recent name="$PROJECT_DIR$/learn-nightwatch/test/e2e" />
     </key>
   </component>
   <component name="RunManager" selected="Python.video">
@@ -560,26 +574,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/imagesfileConf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/deepDreamGenerator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="96">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/fileConf.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="105" selection-start-line="0" selection-start-column="105" selection-end-line="0" selection-end-column="105" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-nightwatch/test/e2e/fileConf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        <state relative-caret-position="346">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
